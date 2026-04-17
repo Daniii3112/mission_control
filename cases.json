@@ -1,0 +1,980 @@
+[
+  {
+    "id": "20260417110459",
+    "case_input": "Quiero decidir si Pymmys debería lanzar primero un producto digital (tipo guía o recurso descargable) o una pequeña colección física con identidad fuerte.",
+    "selected_agents": [
+      "Brand Lead",
+      "Product Lead"
+    ],
+    "outputs": {
+      "Director": "1. Decisión real a tomar: Determinar la estrategia de lanzamiento óptima para maximizar impacto y retorno inicial, definiendo si se debe priorizar un producto digital o un producto físico con identidad fuerte.\n\n2. Agentes que deben intervenir:  \n- Equipo de Producto, para evaluar viabilidad y tiempos de desarrollo de cada opción.  \n- Marketing, para analizar posicionamiento de marca, canales y expectativas de público objetivo.  \n- Finanzas, para proyectar costos iniciales, márgenes y riesgos asociados a cada formato.  \n- Ventas/Distribución, para valorar accesibilidad y escalabilidad de cada canal de venta.  \n\n3. Tensión principal: Equilibrar rapidez y coste (producto digital suele ser más rápido y barato) versus impacto y diferenciación de marca (la colección física puede consolidar identidad y generar mayor conexión), en un entorno que define la percepción inicial de Pymmys.",
+      "Brand Lead": "1. Encaje con marca  \nPymmys tiene una identidad fuerte que parece valorar la autenticidad, tangibilidad y conexión emocional con su público. Un producto físico bien diseñado refuerza percepciones de cuidado, detalle y diferenciación, mientras que un recurso digital es más funcional y utilitario. Por eso, un lanzamiento físico con identidad potente encaja mejor con el universo simbólico de Pymmys, que no parece buscar solo rapidez sino construir valor duradero y reconocimiento.\n\n2. Riesgo de incoherencia  \nLanzar primero un producto digital puede diluir la promesa de marca si la percepción esperada es de un universo con fuerte componente físico y sensorial. Puede transmitirse una imagen de marca más genérica, funcional y menos emocional, perdiendo la oportunidad de construir esa conexión profunda. Además, si después se lanza un producto físico, se podría sembrar confusión sobre el posicionamiento. Por otro lado, la demora y el coste del físico si no se gestionan bien genera riesgo reputacional por expectativas incumplidas.\n\n3. Ajuste recomendado  \nSi el producto físico es factible en tiempos y costos razonables, priorizarlo para lanzar con fuerza la identidad de marca. Complementar luego con recursos digitales que la amplifiquen y ayuden a escalar comunicación y utilidad. En caso de necesidad de velocidad mayor, trabajar un producto digital que contenga elementos gráficos, tono y estilo alineados, acompañado por un roadmap claro hacia el físico para gestionar expectativas y generar anticipación. Esto evita disonancias entre la percepción creada y la promesa visual y simbólica.\n\n4. Veredicto: potencia marca  \nPriorizar el producto físico fortalece la percepción de Pymmys porque genera una experiencia tangible, propia y de alto valor simbólico, imprescindible para la identidad que busca construir la marca. El producto digital puede sumar valor, pero no debe ser la primera impresión si se desea un posicionamiento consistente y sólido. En suma, el lanzamiento ideal arranca con lo físico para consolidar la autenticidad y personalidad, y después se integran activos digitales que amplifiquen la narrativa y la accesibilidad.",
+      "Product Lead": "1. **Qué producto hay aquí realmente**\n\nSe está planteando un producto inicial para Pymmys que puede tomar dos formas:  \n- **Producto digital:** una guía o recurso descargable (PDF, e-book, plantilla, o contenido similar). Producto intangible, accesible inmediatamente tras compra, con bajo coste de producción y fácil actualización.  \n- **Producto físico:** una pequeña colección (objetos, libros, kits) con una identidad visual y narrativa fuerte. Producto tangible, con mayor coste y tiempo de producción, que busca generar una conexión emocional y tangible con la marca.\n\n2. **Punto fuerte real**\n\n- **Digital:** Rapidez de lanzamiento, bajos costes, fácil difusión y escalabilidad, feedback casi inmediato del usuario para iterar. Ideal para validar mercado y posicionamiento inicial.  \n- **Físico:** Diferenciación clara y memorable, genera sentido de marca sólido y prestigio, puede justificar precios más altos y fidelizar más a largo plazo. Refuerza percepción premium o artesanal si es bien diseñado.\n\n3. **Debilidad principal**\n\n- **Digital:** Riesgo de ser percibido como genérico, poco memorable, con baja barrera emocional para el usuario, por lo que puede no construir identidad fuerte ni justificar precios premium.  \n- **Físico:** Costes iniciales elevados, riesgos logísticos (stock, distribución, devoluciones), tiempos de lanzamiento largos que pueden retrasar feedback real y ajustes; riesgo financiero en caso de baja demanda.\n\n4. **Riesgo de mercado o producto**\n\n- Lanzar un producto físico sin validación previa puede significar invertir mucho en algo que no conecta realmente con el público o no tiene tracción, comprometiendo recursos y capital inicial.  \n- Lanzar solo digital puede dejar una primera impresión blandita, con menor posibilidad de establecer una marca fuerte y distintiva, lo que dificulta escalar a formatos físicos o servicios premium en el futuro.\n\n5. **Recomendación: seguir / redefinir / descartar**\n\n**Recomendación: Redefinir hacia un lanzamiento híbrido en dos pasos.**\n\n- Primero, lanzar un producto digital mínimo viable (MVP) que permita validar interés, captar usuarios y entender preferencias. Este producto debe tener una identidad visual cuidada y comunicar claramente la propuesta de valor de marca Pymmys, para comenzar a construir percepción y base de clientes.  \n- Paralelamente, planear una pequeña colección física de edición limitada, con diseño diferencial y storytelling fuerte, que pueda lanzarse justo después o como upsell. De este modo se mitigan costes y se usa el aprendizaje digital para adaptar la colección física a las expectativas reales de los usuarios.  \n- Esta estrategia reduce riesgo, permite iterar rápido y registrar demanda real antes de comprometer capital importante. Además, fortalece gradualmente la identidad de marca con un hilo conductor entre ambos productos.\n\n**Concretamente:**  \n- El producto digital debe ser más que “una guía”: integrar formatos (videos cortos, interacción, comunidad) para aumentar engagement.  \n- La colección física debe tener una narrativa y diseño integrados con ese contenido digital, reforzando la conexión y justificación de precio.\n\nAsí Pymmys maximiza impacto y retorno inicial, construyendo marca sólida y controlando riesgo.",
+      "Critical Reviewer": "1. **Qué se está asumiendo sin demostrar**\n\n- Que la identidad de Pymmys *requiere* necesariamente un producto físico para ser percibida como auténtica y emocionalmente conectada. Nadie aporta validación real (datos, estudios de usuario) que pruebe que el público valora más el físico que un digital bien trabajado y diferenciado.  \n- Que se puede diseñar un producto físico con “identidad fuerte” que genere automáticamente percepción premium y fidelización, sin que haya prueba previa en el mercado objetivo. Se ignora la posibilidad de un diseño “bonito” pero vacío de significado real para los usuarios.  \n- Que el producto digital inicial puede ser “blando” o “genérico” si se lanza primero, cuando un producto digital estratégico y bien diseñado puede construir marca con igual o mayor eficacia si se acompaña de narrativa y diseño potentes. Se subestima el poder del contenido digital para conectar, educar y crear comunidad.  \n- Que el lanzamiento físico es viable en tiempos y costos “razonables” sin un análisis riguroso de producción, logística, capital inmovilizado y posibles problemas post-lanzamiento (devoluciones, stock muerto, cuellos de botella).  \n- Que un verdadero “lanzamiento híbrido” - con producto digital y físico preparados y coordinados en paralelo - es factible en términos de recursos, gestión y timing. Esto puede ser un ideal pero no siempre realista para un equipo pequeño o con presupuesto limitado.\n\n2. **Qué puede salir mal de verdad**\n\n- Lanzar primero un producto físico sin validar mercado: el producto no conecta, ventas bajas, capital parado e incapacidad para pivotar rápido. Se destruye algo básico: liquidez e impulso inicial. El equipo puede quedar atrapado en costos fijos elevados sin retorno.  \n- Si el producto digital se lanza “suave” por prisa, sin profundidad ni identidad robusta, se crea una percepción débil e imprecisa que puede dañar la marca desde el arranque; luego será difícil corregir con un producto físico.  \n- Lanzar simultáneamente ambos productos en diferente formato puede generar incoherencias si no están perfectamente integrados en narrativas y diseño; además, dispersa recursos y esfuerzos que deberían ser más enfocados para un impacto claro y contundente.  \n- Subestimar la complejidad y costo real del proyecto físico, que si se ejecuta mal no solo afecta la reputación sino puede generar pérdidas severas y desgaste del equipo, sin beneficios claros inmediatos.  \n- Depender del feedback digital para ajustar el físico supone un plazo de semanas o meses que puede retrasar mucho el despliegue de marca, perdiendo momentos clave en el mercado.\n\n3. **Qué parte suena más débil**\n\n- La confianza en que la identidad y posicionamiento de Pymmys *no puede* construirse sin un producto físico impactante primero. Esto se expresa con dogmatismo (“priorizar físico para autenticidad”) sin respaldo empírico ni reconocimiento de formas alternativas exitosas de construir marcas premium digitales.  \n- La recomendación “híbrida” como una panacea que “mitiga riesgos” no considera con suficiente rigor los costos, la complejidad de gestión y la dificultad de la ejecución simultánea. Es un deseo más que un plan factible garantizado.  \n- La idea que el producto digital inicial es “una guía o PDF” con adiciones modestas suena a un producto de compromiso que podría fácilmente quedar plano, sin creatividad real o diferencial. No entusiasma ni proyecta innovación suficiente para capturar el interés en un mercado probablemente competitivo.\n\n4. **Qué pregunta incómoda nadie está haciendo**\n\n- ¿Estamos seguros que nuestro público objetivo realmente necesita o valora un producto físico para conectar con Pymmys? ¿Qué pruebas o datos tenemos sobre sus preferencias y hábitos de consumo?  \n- ¿Podemos asumir sin reservas que un producto digital con contenido pobre o básico dañará la marca más que retrasar el lanzamiento físico? ¿No sería peor generar expectativa y frustrar con demora y fallos?  \n- ¿Tenemos el músculo financiero y operacional para afrontar los riesgos que implica un lanzamiento físico en este momento? ¿Qué pasa si el producto físico acaba encallado o con mala recepción?  \n- ¿Por qué no explorar un producto digital con diseño y narrativa tan potentes que posicione a Pymmys como exclusivo aunque sea digital? ¿Por qué limitar la visión de digital solo a “guías”?  \n- ¿Qué aprendizaje concreto buscamos en el producto digital y cómo va a influir exactamente en la colección física? ¿Existe roadmap claro con hitos y métricas de éxito realistas y posibles pivotes?\n\n5. **Veredicto: frágil y engañosamente atractivo**\n\nLa propuesta de priorizar un producto físico para “potenciar la marca”, seguida de un producto digital, o intentar un híbrido, tiene atractivo en teoría pero está construida sobre supuestos no validados y un análisis superficial del riesgo real y de la ejecución práctica. El “lanzamiento físico primero” suena como un ideal romántico que puede llevar a grandes pérdidas si falta capacidad financiera y adaptación.\n\nRecomendar “híbrido” es una salida cómoda, pero probablemente excesivamente ambiciosa y dispersa para una startup o primer lanzamiento sin madurez operativa ni claridad absoluta sobre el mercado. La versión digital propuesta no luce suficientemente diferenciada, lo que puede generar un impacto pobre o diluido.\n\nFaltan datos duros del público, estudios de validación, análisis financiero detallado y un enfoque más pragmático en etapas de aprendizaje rápido antes de comprometer costos significativos. Sin ese rigor, esta estrategia se vuelve frágil y con alto riesgo de desgaste sin resultados contundentes.\n\n---\n\nEn resumen, el equipo debe reestructurar el planteo basándose en evidencias y pruebas concretas de mercado, validar hipótesis de percepción y demanda lo antes posible mediante MVP digitales bien diseñados y solo avanzar al físico luego de negociaciones claras con proveedores y cadena logística probada. No hay atajos en construir “marca fuerte” sin músculo real que lo soporte."
+    },
+    "final_decision": "1. **Síntesis**  \nEstamos ante una decisión crítica sobre el formato inicial para el lanzamiento de Pymmys: producto físico con identidad fuerte versus producto digital ágil. El equipo de Brand enfatiza que la fortaleza de la marca Pymmys está en la conexión emocional tangible que un producto físico aporta. El Product Lead propone una solución híbrida con un MVP digital diseñado para validar y captar usuarios rápidamente, seguido de una colección física que profundice la identidad. El Critical Reviewer advierte sobre riesgos no plenamente asumidos: falta de validación real del público, costos y complejidad del físico, fragilidad del argumento de que lo físico es indispensable y la imposibilidad práctica de un lanzamiento híbrido sin recursos sólidos. En la tensión principal - rapidez y coste vs. impacto y diferenciación - la clave es equilibrar validar mercado y construir marca minimizando riesgos.\n\n2. **Decisión final**  \nAprobar una **estrategia escalonada priorizando un MVP digital de alta calidad y fuerte identidad visual+narrativa**, cuidadosamente diseñado para generar comunidad y captar insights valiosos sobre el público objetivo. Paralelamente, iniciar la fase de validación operativa estricta y negociación logística para un producto físico que será lanzado como segunda etapa, una pequeña colección exclusiva y alineada con el universo del MVP digital. Esta decisión maximiza aprendizaje, disminuye riesgos financieros y garantiza construir una marca sólida sin diluir la percepción inicial ni provocar frustración por demoras.\n\n3. **Qué no debemos ignorar**  \n- La necesidad de datos concretos y validación temprana con usuarios reales para confirmar asunción sobre valor tangible vs. digital.  \n- Posibles complejidades logísticas y financieras que pueden hacer inviable lanzar físicamente sin respaldo firme.  \n- La importancia estratégica de diseñar un producto digital que no sea un mero PDF genérico, sino una experiencia diferenciada que refleje la esencia de Pymmys y fomente engagement.  \n- La coordinación narrativa y estética entre producto digital y físico, para evitar incoherencias y reforzar identidad.  \n- La capacidad real del equipo y presupuesto para sostener una estrategia híbrida sin dispersar esfuerzos.\n\n4. **Next Move**  \n- Convocar sesión inmediata con Producto, Marketing, Finanzas y Ventas para definir especificaciones del MVP digital: formato, contenido, diseño, canales y métricas claras de éxito.  \n- Lanzar plan de investigación rápida y testeo con público objetivo para validar hipótesis sobre percepción y preferencias en relación a formatos físico vs digital.  \n- Iniciar evaluación detallada y negociación con proveedores y cadena logística para la colección física, con análisis de costes, tiempos y riesgos; definir umbrales para aprobación definitiva.  \n- Definir roadmap con hitos y criterios de decisión para avanzar a la fase física, basados en datos cuantificados y feedback real del MVP digital.  \n- Establecer mecanismos permanentes de comunicación y alineación entre equipos para mantener coherencia de marca y optimizar recursos.\n\nCon esta hoja de ruta damos estructura, control y pragmatismo al lanzamiento, alineados con la ambición de construir una marca sólida, conectiva y sostenible en el tiempo.",
+    "created_at": "2026-04-17T11:04:59.325151"
+  },
+  {
+    "id": "20260417132937",
+    "created_at": "2026-04-17T13:29:37.146539",
+    "case_input": "Quiero decidir el primer producto de Pymmys: digital, fisico o workshop.",
+    "mission": {
+      "mission": "Elegir y lanzar el primer producto de Pymmys con el mayor impacto de marca posible",
+      "real_decision": "¿Digital, físico o servicio como primer movimiento?",
+      "key_tension": "Velocidad de lanzamiento vs coherencia de marca",
+      "success_criteria": [
+        "Encaje con identidad de marca",
+        "Viable en 60 días",
+        "Precio entre 20-80 euros"
+      ]
+    },
+    "product_options": [
+      {
+        "id": "option_1",
+        "name": "Guía Digital de Estilo Pymmys",
+        "description": "PDF premium con metodología de diseño personal aplicada al estilo",
+        "target_audience": "Mujeres 25-35 interesadas en estilo consciente",
+        "price_range": "25-45€",
+        "time_to_market": "3-4 semanas",
+        "key_differentiator": "Framework visual propio de Pymmys"
+      },
+      {
+        "id": "option_2",
+        "name": "Kit de Inicio Físico",
+        "description": "Caja curada con 3-5 objetos de diseño seleccionados por Pymmys",
+        "target_audience": "Amantes del diseño con poder adquisitivo medio-alto",
+        "price_range": "60-90€",
+        "time_to_market": "8-10 semanas",
+        "key_differentiator": "Experiencia unboxing premium con curaduría experta"
+      },
+      {
+        "id": "option_3",
+        "name": "Workshop Online en Vivo",
+        "description": "Sesión grupal de diseño personal con metodología Pymmys",
+        "target_audience": "Profesionales que quieren reinventarse a través del estilo",
+        "price_range": "75-120€",
+        "time_to_market": "2-3 semanas",
+        "key_differentiator": "Acceso directo al método y comunidad en tiempo real"
+      }
+    ],
+    "brand_evaluations": [
+      {
+        "option_id": "option_1",
+        "brand_fit_score": 7,
+        "strengths": [
+          "Posiciona expertise",
+          "Bajo riesgo de marca"
+        ],
+        "risks": [
+          "Puede parecer genérico",
+          "Difícil de diferenciar visualmente"
+        ],
+        "verdict": "neutro",
+        "recommendation": "Viable solo si la producción visual es impecable"
+      },
+      {
+        "option_id": "option_2",
+        "brand_fit_score": 9,
+        "strengths": [
+          "Experiencia tangible premium",
+          "Alto potencial de difusión orgánica"
+        ],
+        "risks": [
+          "Mayor inversión inicial",
+          "Logística compleja"
+        ],
+        "verdict": "potencia_marca",
+        "recommendation": "Opción más alineada con la identidad aspiracional"
+      },
+      {
+        "option_id": "option_3",
+        "brand_fit_score": 8,
+        "strengths": [
+          "Genera comunidad inmediata",
+          "Prueba de valor del método"
+        ],
+        "risks": [
+          "Escalabilidad limitada",
+          "Depende de energía del fundador"
+        ],
+        "verdict": "potencia_marca",
+        "recommendation": "Excelente para validar propuesta de valor con bajo riesgo"
+      }
+    ],
+    "marketing_angles": [
+      {
+        "option_id": "option_1",
+        "hook": "El método para vestir con intención, no por impulso",
+        "main_message": "Diseña tu estilo como diseñas tu vida",
+        "target_channels": [
+          "Instagram",
+          "Newsletter",
+          "Pinterest"
+        ],
+        "campaign_concept": "5 días de contenido teaser + reveal del método",
+        "communication_risk": "Saturación de contenido de moda digital"
+      },
+      {
+        "option_id": "option_2",
+        "hook": "Tu primera caja Pymmys. Curada para quién quieres ser.",
+        "main_message": "No es lo que compras. Es lo que dice de ti.",
+        "target_channels": [
+          "Instagram Stories",
+          "Influencer gifting",
+          "Waitlist email"
+        ],
+        "campaign_concept": "Preventa con lista de espera exclusiva de 48h",
+        "communication_risk": "El unboxing real debe cumplir la promesa visual"
+      },
+      {
+        "option_id": "option_3",
+        "hook": "¿Y si rediseñas tu imagen en una tarde?",
+        "main_message": "El workshop que cambia cómo te ven — y cómo te ves",
+        "target_channels": [
+          "Instagram Lives",
+          "LinkedIn",
+          "Email"
+        ],
+        "campaign_concept": "Lanzamiento con sesión gratuita para los primeros 5 inscritos",
+        "communication_risk": "Competencia alta en espacio de workshops online"
+      }
+    ],
+    "feasibility_assessments": [
+      {
+        "option_id": "option_1",
+        "complexity_score": 3,
+        "resources_needed": [
+          "Diseñador gráfico",
+          "Redactor",
+          "Plataforma de venta digital"
+        ],
+        "bottlenecks": [
+          "Calidad de producción visual"
+        ],
+        "estimated_time": "3-4 semanas",
+        "verdict": "viable",
+        "notes": "La opción más rápida de lanzar con inversión mínima"
+      },
+      {
+        "option_id": "option_2",
+        "complexity_score": 8,
+        "resources_needed": [
+          "Proveedor de producto",
+          "Packaging personalizado",
+          "Gestión de stock",
+          "Logística de envíos"
+        ],
+        "bottlenecks": [
+          "Tiempo de fabricación de packaging",
+          "Capital inicial para stock"
+        ],
+        "estimated_time": "8-12 semanas",
+        "verdict": "viable_con_condiciones",
+        "notes": "Viable solo con inversión inicial validada y proveedor confirmado"
+      },
+      {
+        "option_id": "option_3",
+        "complexity_score": 4,
+        "resources_needed": [
+          "Plataforma de videoconferencia",
+          "Landing page",
+          "Sistema de pagos"
+        ],
+        "bottlenecks": [
+          "Disponibilidad del fundador",
+          "Límite de participantes por sesión"
+        ],
+        "estimated_time": "2-3 semanas",
+        "verdict": "viable",
+        "notes": "Opción más rápida para validar modelo con riesgo financiero mínimo"
+      }
+    ],
+    "critical_review": {
+      "weak_assumptions": [
+        "Asumir que el mercado ya conoce Pymmys y confía en la marca",
+        "Creer que el precio premium es aceptable sin proof of concept previo",
+        "Asumir que la identidad de marca está clara para la audiencia objetivo"
+      ],
+      "hidden_risks": [
+        "Sin audiencia existente, el lanzamiento puede caer en el vacío",
+        "El kit físico requiere capital que puede perderse sin validación previa",
+        "Los workshops escalan poco si dependen exclusivamente del fundador"
+      ],
+      "uncomfortable_questions": [
+        "¿Tienes audiencia existente o estás construyendo desde cero?",
+        "¿Cuántos clientes necesitas en el mes 1 para considerar esto validado?",
+        "¿Estás listo operativamente para gestionar devoluciones, envíos e incidencias?"
+      ],
+      "per_option_verdict": {
+        "option_1": "Riesgo bajo pero impacto potencial también moderado",
+        "option_2": "Alto potencial pero necesita capital y tiempo que pueden no estar disponibles ahora",
+        "option_3": "Mejor opción para validar con riesgo financiero mínimo"
+      },
+      "overall_verdict": "fragil",
+      "summary": "El plan tiene buenas ideas pero está construido sobre supuestos no validados."
+    },
+    "final_decision": {
+      "recommended_option_id": "option_3",
+      "recommended_option_name": "Workshop Online en Vivo",
+      "synthesis": "Tras analizar las tres opciones, el Workshop Online es el primer movimiento más inteligente para Pymmys: valida la propuesta de valor antes de invertir en producto físico, genera comunidad real y permite iterar el mensaje rápidamente.",
+      "rationale": [
+        "Menor riesgo financiero y operativo de los tres",
+        "Valida propuesta de valor antes de comprometer capital",
+        "Genera primeros clientes y comunidad desde el día 1",
+        "Permite iterar el mensaje con feedback directo"
+      ],
+      "what_not_to_ignore": [
+        "Sin audiencia previa el lanzamiento necesita apoyo de distribución externa",
+        "El workshop debe tener producción visual impecable para transmitir la identidad de marca"
+      ],
+      "next_moves": [
+        "Definir fecha y tema del primer workshop en los próximos 7 días",
+        "Crear landing page con preventa en 5 días",
+        "Activar lista de espera con contenido teaser en Instagram",
+        "Usar el workshop como caso de estudio para el siguiente producto"
+      ],
+      "confidence": "alta"
+    }
+  },
+  {
+    "id": "20260417132954",
+    "created_at": "2026-04-17T13:29:54.420195",
+    "case_input": "Quiero decidir el primer producto de Pymmys.",
+    "mission": {
+      "mission": "Elegir y lanzar el primer producto de Pymmys con el mayor impacto de marca posible",
+      "real_decision": "¿Digital, físico o servicio como primer movimiento?",
+      "key_tension": "Velocidad de lanzamiento vs coherencia de marca",
+      "success_criteria": [
+        "Encaje con identidad de marca",
+        "Viable en 60 días",
+        "Precio entre 20-80 euros"
+      ]
+    },
+    "product_options": [
+      {
+        "id": "option_1",
+        "name": "Guía Digital de Estilo Pymmys",
+        "description": "PDF premium con metodología de diseño personal aplicada al estilo",
+        "target_audience": "Mujeres 25-35 interesadas en estilo consciente",
+        "price_range": "25-45€",
+        "time_to_market": "3-4 semanas",
+        "key_differentiator": "Framework visual propio de Pymmys"
+      },
+      {
+        "id": "option_2",
+        "name": "Kit de Inicio Físico",
+        "description": "Caja curada con 3-5 objetos de diseño seleccionados por Pymmys",
+        "target_audience": "Amantes del diseño con poder adquisitivo medio-alto",
+        "price_range": "60-90€",
+        "time_to_market": "8-10 semanas",
+        "key_differentiator": "Experiencia unboxing premium con curaduría experta"
+      },
+      {
+        "id": "option_3",
+        "name": "Workshop Online en Vivo",
+        "description": "Sesión grupal de diseño personal con metodología Pymmys",
+        "target_audience": "Profesionales que quieren reinventarse a través del estilo",
+        "price_range": "75-120€",
+        "time_to_market": "2-3 semanas",
+        "key_differentiator": "Acceso directo al método y comunidad en tiempo real"
+      }
+    ],
+    "brand_evaluations": [
+      {
+        "option_id": "option_1",
+        "brand_fit_score": 7,
+        "strengths": [
+          "Posiciona expertise",
+          "Bajo riesgo de marca"
+        ],
+        "risks": [
+          "Puede parecer genérico",
+          "Difícil de diferenciar visualmente"
+        ],
+        "verdict": "neutro",
+        "recommendation": "Viable solo si la producción visual es impecable"
+      },
+      {
+        "option_id": "option_2",
+        "brand_fit_score": 9,
+        "strengths": [
+          "Experiencia tangible premium",
+          "Alto potencial de difusión orgánica"
+        ],
+        "risks": [
+          "Mayor inversión inicial",
+          "Logística compleja"
+        ],
+        "verdict": "potencia_marca",
+        "recommendation": "Opción más alineada con la identidad aspiracional"
+      },
+      {
+        "option_id": "option_3",
+        "brand_fit_score": 8,
+        "strengths": [
+          "Genera comunidad inmediata",
+          "Prueba de valor del método"
+        ],
+        "risks": [
+          "Escalabilidad limitada",
+          "Depende de energía del fundador"
+        ],
+        "verdict": "potencia_marca",
+        "recommendation": "Excelente para validar propuesta de valor con bajo riesgo"
+      }
+    ],
+    "marketing_angles": [
+      {
+        "option_id": "option_1",
+        "hook": "El método para vestir con intención, no por impulso",
+        "main_message": "Diseña tu estilo como diseñas tu vida",
+        "target_channels": [
+          "Instagram",
+          "Newsletter",
+          "Pinterest"
+        ],
+        "campaign_concept": "5 días de contenido teaser + reveal del método",
+        "communication_risk": "Saturación de contenido de moda digital"
+      },
+      {
+        "option_id": "option_2",
+        "hook": "Tu primera caja Pymmys. Curada para quién quieres ser.",
+        "main_message": "No es lo que compras. Es lo que dice de ti.",
+        "target_channels": [
+          "Instagram Stories",
+          "Influencer gifting",
+          "Waitlist email"
+        ],
+        "campaign_concept": "Preventa con lista de espera exclusiva de 48h",
+        "communication_risk": "El unboxing real debe cumplir la promesa visual"
+      },
+      {
+        "option_id": "option_3",
+        "hook": "¿Y si rediseñas tu imagen en una tarde?",
+        "main_message": "El workshop que cambia cómo te ven — y cómo te ves",
+        "target_channels": [
+          "Instagram Lives",
+          "LinkedIn",
+          "Email"
+        ],
+        "campaign_concept": "Lanzamiento con sesión gratuita para los primeros 5 inscritos",
+        "communication_risk": "Competencia alta en espacio de workshops online"
+      }
+    ],
+    "feasibility_assessments": [
+      {
+        "option_id": "option_1",
+        "complexity_score": 3,
+        "resources_needed": [
+          "Diseñador gráfico",
+          "Redactor",
+          "Plataforma de venta digital"
+        ],
+        "bottlenecks": [
+          "Calidad de producción visual"
+        ],
+        "estimated_time": "3-4 semanas",
+        "verdict": "viable",
+        "notes": "La opción más rápida de lanzar con inversión mínima"
+      },
+      {
+        "option_id": "option_2",
+        "complexity_score": 8,
+        "resources_needed": [
+          "Proveedor de producto",
+          "Packaging personalizado",
+          "Gestión de stock",
+          "Logística de envíos"
+        ],
+        "bottlenecks": [
+          "Tiempo de fabricación de packaging",
+          "Capital inicial para stock"
+        ],
+        "estimated_time": "8-12 semanas",
+        "verdict": "viable_con_condiciones",
+        "notes": "Viable solo con inversión inicial validada y proveedor confirmado"
+      },
+      {
+        "option_id": "option_3",
+        "complexity_score": 4,
+        "resources_needed": [
+          "Plataforma de videoconferencia",
+          "Landing page",
+          "Sistema de pagos"
+        ],
+        "bottlenecks": [
+          "Disponibilidad del fundador",
+          "Límite de participantes por sesión"
+        ],
+        "estimated_time": "2-3 semanas",
+        "verdict": "viable",
+        "notes": "Opción más rápida para validar modelo con riesgo financiero mínimo"
+      }
+    ],
+    "critical_review": {
+      "weak_assumptions": [
+        "Asumir que el mercado ya conoce Pymmys y confía en la marca",
+        "Creer que el precio premium es aceptable sin proof of concept previo",
+        "Asumir que la identidad de marca está clara para la audiencia objetivo"
+      ],
+      "hidden_risks": [
+        "Sin audiencia existente, el lanzamiento puede caer en el vacío",
+        "El kit físico requiere capital que puede perderse sin validación previa",
+        "Los workshops escalan poco si dependen exclusivamente del fundador"
+      ],
+      "uncomfortable_questions": [
+        "¿Tienes audiencia existente o estás construyendo desde cero?",
+        "¿Cuántos clientes necesitas en el mes 1 para considerar esto validado?",
+        "¿Estás listo operativamente para gestionar devoluciones, envíos e incidencias?"
+      ],
+      "per_option_verdict": {
+        "option_1": "Riesgo bajo pero impacto potencial también moderado",
+        "option_2": "Alto potencial pero necesita capital y tiempo que pueden no estar disponibles ahora",
+        "option_3": "Mejor opción para validar con riesgo financiero mínimo"
+      },
+      "overall_verdict": "fragil",
+      "summary": "El plan tiene buenas ideas pero está construido sobre supuestos no validados."
+    },
+    "final_decision": {
+      "recommended_option_id": "option_3",
+      "recommended_option_name": "Workshop Online en Vivo",
+      "synthesis": "Tras analizar las tres opciones, el Workshop Online es el primer movimiento más inteligente para Pymmys: valida la propuesta de valor antes de invertir en producto físico, genera comunidad real y permite iterar el mensaje rápidamente.",
+      "rationale": [
+        "Menor riesgo financiero y operativo de los tres",
+        "Valida propuesta de valor antes de comprometer capital",
+        "Genera primeros clientes y comunidad desde el día 1",
+        "Permite iterar el mensaje con feedback directo"
+      ],
+      "what_not_to_ignore": [
+        "Sin audiencia previa el lanzamiento necesita apoyo de distribución externa",
+        "El workshop debe tener producción visual impecable para transmitir la identidad de marca"
+      ],
+      "next_moves": [
+        "Definir fecha y tema del primer workshop en los próximos 7 días",
+        "Crear landing page con preventa en 5 días",
+        "Activar lista de espera con contenido teaser en Instagram",
+        "Usar el workshop como caso de estudio para el siguiente producto"
+      ],
+      "confidence": "alta"
+    }
+  },
+  {
+    "id": "20260417133000",
+    "created_at": "2026-04-17T13:30:00.131851",
+    "case_input": "Quiero decidir el primer producto de Pymmys.",
+    "mission": {
+      "mission": "Elegir y lanzar el primer producto de Pymmys con el mayor impacto de marca posible",
+      "real_decision": "¿Digital, físico o servicio como primer movimiento?",
+      "key_tension": "Velocidad de lanzamiento vs coherencia de marca",
+      "success_criteria": [
+        "Encaje con identidad de marca",
+        "Viable en 60 días",
+        "Precio entre 20-80 euros"
+      ]
+    },
+    "product_options": [
+      {
+        "id": "option_1",
+        "name": "Guía Digital de Estilo Pymmys",
+        "description": "PDF premium con metodología de diseño personal aplicada al estilo",
+        "target_audience": "Mujeres 25-35 interesadas en estilo consciente",
+        "price_range": "25-45€",
+        "time_to_market": "3-4 semanas",
+        "key_differentiator": "Framework visual propio de Pymmys"
+      },
+      {
+        "id": "option_2",
+        "name": "Kit de Inicio Físico",
+        "description": "Caja curada con 3-5 objetos de diseño seleccionados por Pymmys",
+        "target_audience": "Amantes del diseño con poder adquisitivo medio-alto",
+        "price_range": "60-90€",
+        "time_to_market": "8-10 semanas",
+        "key_differentiator": "Experiencia unboxing premium con curaduría experta"
+      },
+      {
+        "id": "option_3",
+        "name": "Workshop Online en Vivo",
+        "description": "Sesión grupal de diseño personal con metodología Pymmys",
+        "target_audience": "Profesionales que quieren reinventarse a través del estilo",
+        "price_range": "75-120€",
+        "time_to_market": "2-3 semanas",
+        "key_differentiator": "Acceso directo al método y comunidad en tiempo real"
+      }
+    ],
+    "brand_evaluations": [
+      {
+        "option_id": "option_1",
+        "brand_fit_score": 7,
+        "strengths": [
+          "Posiciona expertise",
+          "Bajo riesgo de marca"
+        ],
+        "risks": [
+          "Puede parecer genérico",
+          "Difícil de diferenciar visualmente"
+        ],
+        "verdict": "neutro",
+        "recommendation": "Viable solo si la producción visual es impecable"
+      },
+      {
+        "option_id": "option_2",
+        "brand_fit_score": 9,
+        "strengths": [
+          "Experiencia tangible premium",
+          "Alto potencial de difusión orgánica"
+        ],
+        "risks": [
+          "Mayor inversión inicial",
+          "Logística compleja"
+        ],
+        "verdict": "potencia_marca",
+        "recommendation": "Opción más alineada con la identidad aspiracional"
+      },
+      {
+        "option_id": "option_3",
+        "brand_fit_score": 8,
+        "strengths": [
+          "Genera comunidad inmediata",
+          "Prueba de valor del método"
+        ],
+        "risks": [
+          "Escalabilidad limitada",
+          "Depende de energía del fundador"
+        ],
+        "verdict": "potencia_marca",
+        "recommendation": "Excelente para validar propuesta de valor con bajo riesgo"
+      }
+    ],
+    "marketing_angles": [
+      {
+        "option_id": "option_1",
+        "hook": "El método para vestir con intención, no por impulso",
+        "main_message": "Diseña tu estilo como diseñas tu vida",
+        "target_channels": [
+          "Instagram",
+          "Newsletter",
+          "Pinterest"
+        ],
+        "campaign_concept": "5 días de contenido teaser + reveal del método",
+        "communication_risk": "Saturación de contenido de moda digital"
+      },
+      {
+        "option_id": "option_2",
+        "hook": "Tu primera caja Pymmys. Curada para quién quieres ser.",
+        "main_message": "No es lo que compras. Es lo que dice de ti.",
+        "target_channels": [
+          "Instagram Stories",
+          "Influencer gifting",
+          "Waitlist email"
+        ],
+        "campaign_concept": "Preventa con lista de espera exclusiva de 48h",
+        "communication_risk": "El unboxing real debe cumplir la promesa visual"
+      },
+      {
+        "option_id": "option_3",
+        "hook": "¿Y si rediseñas tu imagen en una tarde?",
+        "main_message": "El workshop que cambia cómo te ven — y cómo te ves",
+        "target_channels": [
+          "Instagram Lives",
+          "LinkedIn",
+          "Email"
+        ],
+        "campaign_concept": "Lanzamiento con sesión gratuita para los primeros 5 inscritos",
+        "communication_risk": "Competencia alta en espacio de workshops online"
+      }
+    ],
+    "feasibility_assessments": [
+      {
+        "option_id": "option_1",
+        "complexity_score": 3,
+        "resources_needed": [
+          "Diseñador gráfico",
+          "Redactor",
+          "Plataforma de venta digital"
+        ],
+        "bottlenecks": [
+          "Calidad de producción visual"
+        ],
+        "estimated_time": "3-4 semanas",
+        "verdict": "viable",
+        "notes": "La opción más rápida de lanzar con inversión mínima"
+      },
+      {
+        "option_id": "option_2",
+        "complexity_score": 8,
+        "resources_needed": [
+          "Proveedor de producto",
+          "Packaging personalizado",
+          "Gestión de stock",
+          "Logística de envíos"
+        ],
+        "bottlenecks": [
+          "Tiempo de fabricación de packaging",
+          "Capital inicial para stock"
+        ],
+        "estimated_time": "8-12 semanas",
+        "verdict": "viable_con_condiciones",
+        "notes": "Viable solo con inversión inicial validada y proveedor confirmado"
+      },
+      {
+        "option_id": "option_3",
+        "complexity_score": 4,
+        "resources_needed": [
+          "Plataforma de videoconferencia",
+          "Landing page",
+          "Sistema de pagos"
+        ],
+        "bottlenecks": [
+          "Disponibilidad del fundador",
+          "Límite de participantes por sesión"
+        ],
+        "estimated_time": "2-3 semanas",
+        "verdict": "viable",
+        "notes": "Opción más rápida para validar modelo con riesgo financiero mínimo"
+      }
+    ],
+    "critical_review": {
+      "weak_assumptions": [
+        "Asumir que el mercado ya conoce Pymmys y confía en la marca",
+        "Creer que el precio premium es aceptable sin proof of concept previo",
+        "Asumir que la identidad de marca está clara para la audiencia objetivo"
+      ],
+      "hidden_risks": [
+        "Sin audiencia existente, el lanzamiento puede caer en el vacío",
+        "El kit físico requiere capital que puede perderse sin validación previa",
+        "Los workshops escalan poco si dependen exclusivamente del fundador"
+      ],
+      "uncomfortable_questions": [
+        "¿Tienes audiencia existente o estás construyendo desde cero?",
+        "¿Cuántos clientes necesitas en el mes 1 para considerar esto validado?",
+        "¿Estás listo operativamente para gestionar devoluciones, envíos e incidencias?"
+      ],
+      "per_option_verdict": {
+        "option_1": "Riesgo bajo pero impacto potencial también moderado",
+        "option_2": "Alto potencial pero necesita capital y tiempo que pueden no estar disponibles ahora",
+        "option_3": "Mejor opción para validar con riesgo financiero mínimo"
+      },
+      "overall_verdict": "fragil",
+      "summary": "El plan tiene buenas ideas pero está construido sobre supuestos no validados."
+    },
+    "final_decision": {
+      "recommended_option_id": "option_3",
+      "recommended_option_name": "Workshop Online en Vivo",
+      "synthesis": "Tras analizar las tres opciones, el Workshop Online es el primer movimiento más inteligente para Pymmys: valida la propuesta de valor antes de invertir en producto físico, genera comunidad real y permite iterar el mensaje rápidamente.",
+      "rationale": [
+        "Menor riesgo financiero y operativo de los tres",
+        "Valida propuesta de valor antes de comprometer capital",
+        "Genera primeros clientes y comunidad desde el día 1",
+        "Permite iterar el mensaje con feedback directo"
+      ],
+      "what_not_to_ignore": [
+        "Sin audiencia previa el lanzamiento necesita apoyo de distribución externa",
+        "El workshop debe tener producción visual impecable para transmitir la identidad de marca"
+      ],
+      "next_moves": [
+        "Definir fecha y tema del primer workshop en los próximos 7 días",
+        "Crear landing page con preventa en 5 días",
+        "Activar lista de espera con contenido teaser en Instagram",
+        "Usar el workshop como caso de estudio para el siguiente producto"
+      ],
+      "confidence": "alta"
+    }
+  },
+  {
+    "id": "20260417134458",
+    "created_at": "2026-04-17T13:44:58.124817",
+    "case_input": "Quiero un vídeo tipo teaser artístico para Pymmys, muy minimalista, con luz cálida, ritmo lento, sensación íntima y emocional, que deje a la gente con ganas de saber más.",
+    "mission": {
+      "mission": "Elegir y lanzar el primer producto de Pymmys con el mayor impacto de marca posible",
+      "real_decision": "¿Digital, físico o servicio como primer movimiento?",
+      "key_tension": "Velocidad de lanzamiento vs coherencia de marca",
+      "success_criteria": [
+        "Encaje con identidad de marca",
+        "Viable en 60 días",
+        "Precio entre 20-80 euros"
+      ]
+    },
+    "creative_concept": {
+      "concept_title": "No sabes qué es, pero lo sientes",
+      "core_idea": "Un teaser corto que presenta Pymmys como una presencia sugerente, estética e incierta, sin explicarla del todo.",
+      "emotional_tone": "misterioso, premium, íntimo",
+      "visual_style": "minimalista, cálido, cinematográfico",
+      "atmosphere": "silencio, tensión suave, curiosidad",
+      "pacing": "lento al inicio, intenso al final",
+      "suggested_duration": "10-12 segundos",
+      "closing_feeling": "quiero saber más"
+    },
+    "marketing_angle": [
+      {
+        "option_id": "video_teaser_1",
+        "hook": "No todo lo importante se entiende al instante.",
+        "main_message": "Pymmys llega como una sensación antes que como una explicación.",
+        "target_channels": [
+          "Instagram Reels",
+          "TikTok"
+        ],
+        "campaign_concept": "Teaser corto de intriga y estética premium",
+        "communication_risk": "Puede quedar demasiado abstracto si no hay un ancla visual clara"
+      }
+    ],
+    "brand_check": [
+      {
+        "option_id": "video_teaser_1",
+        "brand_fit_score": 9,
+        "strengths": [
+          "Construye identidad desde la atmósfera",
+          "Refuerza percepción premium"
+        ],
+        "risks": [
+          "Puede ser demasiado abstracto",
+          "Necesita un gesto visual memorable"
+        ],
+        "verdict": "potencia_marca",
+        "recommendation": "Mantener el misterio, pero fijar memoria con una imagen o texto final claro"
+      }
+    ],
+    "critical_review": {
+      "weak_assumptions": [
+        "Asumir que la audiencia conectará con la atmósfera sin entender el contexto"
+      ],
+      "hidden_risks": [
+        "Que el teaser sea bonito pero no memorable",
+        "Que no haya ningún elemento distintivo de Pymmys"
+      ],
+      "uncomfortable_questions": [
+        "¿Qué recordará la gente exactamente al terminar el vídeo?",
+        "¿Hay un ancla visual o verbal suficientemente fuerte?"
+      ],
+      "overall_verdict": "prometedor",
+      "summary": "La idea funciona si el misterio no sacrifica recordación."
+    },
+    "video_plan": {
+      "mission": "Elegir y lanzar el primer producto de Pymmys con el mayor impacto de marca posible",
+      "real_decision": "¿Digital, físico o servicio como primer movimiento?",
+      "key_tension": "Velocidad de lanzamiento vs coherencia de marca",
+      "success_criteria": [
+        "Encaje con identidad de marca",
+        "Viable en 60 días",
+        "Precio entre 20-80 euros"
+      ]
+    },
+    "case_type": "video_teaser"
+  },
+  {
+    "id": "20260417134634",
+    "created_at": "2026-04-17T13:46:34.253303",
+    "case_input": "Quiero un vídeo tipo teaser artístico para Pymmys, muy minimalista, con luz cálida, ritmo lento, sensación íntima y emocional, que deje a la gente con ganas de saber más.",
+    "mission": {
+      "mission": "Crear un teaser corto de presentación de marca para Pymmys",
+      "real_decision": "¿Cómo generar intriga, identidad y hype en 10-12 segundos sin explicar demasiado?",
+      "key_tension": "Misterio e impacto visual vs claridad mínima de marca",
+      "success_criteria": [
+        "Se siente premium",
+        "Genera curiosidad",
+        "Deja una imagen recordable",
+        "Funciona en formato corto"
+      ]
+    },
+    "creative_concept": {
+      "concept_title": "No sabes qué es, pero lo sientes",
+      "core_idea": "Un teaser corto que presenta Pymmys como una presencia sugerente, estética e incierta, sin explicarla del todo.",
+      "emotional_tone": "misterioso, premium, íntimo",
+      "visual_style": "minimalista, cálido, cinematográfico",
+      "atmosphere": "silencio, tensión suave, curiosidad",
+      "pacing": "lento al inicio, intenso al final",
+      "suggested_duration": "10-12 segundos",
+      "closing_feeling": "quiero saber más"
+    },
+    "marketing_angle": [
+      {
+        "option_id": "video_teaser_1",
+        "hook": "No todo lo importante se entiende al instante.",
+        "main_message": "Pymmys llega como una sensación antes que como una explicación.",
+        "target_channels": [
+          "Instagram Reels",
+          "TikTok"
+        ],
+        "campaign_concept": "Teaser corto de intriga y estética premium",
+        "communication_risk": "Puede quedar demasiado abstracto si no hay un ancla visual clara"
+      }
+    ],
+    "brand_check": [
+      {
+        "option_id": "video_teaser_1",
+        "brand_fit_score": 9,
+        "strengths": [
+          "Construye identidad desde la atmósfera",
+          "Refuerza percepción premium"
+        ],
+        "risks": [
+          "Puede ser demasiado abstracto",
+          "Necesita un gesto visual memorable"
+        ],
+        "verdict": "potencia_marca",
+        "recommendation": "Mantener el misterio, pero fijar memoria con una imagen o texto final claro"
+      }
+    ],
+    "critical_review": {
+      "weak_assumptions": [
+        "Asumir que la audiencia conectará con la atmósfera sin entender el contexto"
+      ],
+      "hidden_risks": [
+        "Que el teaser sea bonito pero no memorable",
+        "Que no haya ningún elemento distintivo de Pymmys"
+      ],
+      "uncomfortable_questions": [
+        "¿Qué recordará la gente exactamente al terminar el vídeo?",
+        "¿Hay un ancla visual o verbal suficientemente fuerte?"
+      ],
+      "overall_verdict": "prometedor",
+      "summary": "La idea funciona si el misterio no sacrifica recordación."
+    },
+    "video_plan": {
+      "title": "Teaser 01 — Pymmys",
+      "objective": "presentar Pymmys con intriga y estética premium",
+      "recommended_duration": "10-12 segundos",
+      "scenes": [
+        {
+          "scene": 1,
+          "time": "0-3s",
+          "visual": "pantalla oscura, luz cálida apareciendo lentamente",
+          "text": "algo está cambiando"
+        },
+        {
+          "scene": 2,
+          "time": "3-6s",
+          "visual": "detalle de mesa minimalista, sombras suaves, objeto insinuado",
+          "text": "no sabes qué es"
+        },
+        {
+          "scene": 3,
+          "time": "6-9s",
+          "visual": "movimiento sutil, atmósfera íntima, enfoque corto",
+          "text": "pero lo sientes"
+        },
+        {
+          "scene": 4,
+          "time": "9-12s",
+          "visual": "pantalla limpia con logo o palabra PYMMYS",
+          "text": "PYMMYS · coming soon"
+        }
+      ],
+      "visual_prompts": [
+        "cinematic warm lighting, premium minimalism, mysterious atmosphere, shallow depth of field",
+        "clean luxury teaser, soft shadows, emotional brand reveal, short form video aesthetic"
+      ],
+      "music_direction": "ambient minimal, soft tension, cinematic pulse",
+      "final_note": "menos explicación, más sensación"
+    },
+    "case_type": "video_teaser"
+  },
+  {
+    "id": "20260417134856",
+    "created_at": "2026-04-17T13:48:56.712052",
+    "case_input": "Quiero un vídeo tipo teaser artístico para Pymmys, muy minimalista, con luz cálida, ritmo lento, sensación íntima y emocional, que deje a la gente con ganas de saber más.",
+    "mission": {
+      "mission": "Crear un teaser corto de presentación de marca para Pymmys",
+      "real_decision": "¿Cómo generar intriga, identidad y hype en 10-12 segundos sin explicar demasiado?",
+      "key_tension": "Misterio e impacto visual vs claridad mínima de marca",
+      "success_criteria": [
+        "Se siente premium",
+        "Genera curiosidad",
+        "Deja una imagen recordable",
+        "Funciona en formato corto"
+      ]
+    },
+    "creative_concept": {
+      "concept_title": "No sabes qué es, pero lo sientes",
+      "core_idea": "Un teaser corto que presenta Pymmys como una presencia sugerente, estética e incierta, sin explicarla del todo.",
+      "emotional_tone": "misterioso, premium, íntimo",
+      "visual_style": "minimalista, cálido, cinematográfico",
+      "atmosphere": "silencio, tensión suave, curiosidad",
+      "pacing": "lento al inicio, intenso al final",
+      "suggested_duration": "10-12 segundos",
+      "closing_feeling": "quiero saber más"
+    },
+    "marketing_angle": [
+      {
+        "option_id": "video_teaser_1",
+        "hook": "No todo lo importante se entiende al instante.",
+        "main_message": "Pymmys llega como una sensación antes que como una explicación.",
+        "target_channels": [
+          "Instagram Reels",
+          "TikTok"
+        ],
+        "campaign_concept": "Teaser corto de intriga y estética premium",
+        "communication_risk": "Puede quedar demasiado abstracto si no hay un ancla visual clara"
+      }
+    ],
+    "brand_check": [
+      {
+        "option_id": "video_teaser_1",
+        "brand_fit_score": 9,
+        "strengths": [
+          "Construye identidad desde la atmósfera",
+          "Refuerza percepción premium"
+        ],
+        "risks": [
+          "Puede ser demasiado abstracto",
+          "Necesita un gesto visual memorable"
+        ],
+        "verdict": "potencia_marca",
+        "recommendation": "Mantener el misterio, pero fijar memoria con una imagen o texto final claro"
+      }
+    ],
+    "critical_review": {
+      "weak_assumptions": [
+        "Asumir que la audiencia conectará con la atmósfera sin entender el contexto"
+      ],
+      "hidden_risks": [
+        "Que el teaser sea bonito pero no memorable",
+        "Que no haya ningún elemento distintivo de Pymmys"
+      ],
+      "uncomfortable_questions": [
+        "¿Qué recordará la gente exactamente al terminar el vídeo?",
+        "¿Hay un ancla visual o verbal suficientemente fuerte?"
+      ],
+      "overall_verdict": "prometedor",
+      "summary": "La idea funciona si el misterio no sacrifica recordación."
+    },
+    "video_plan": {
+      "title": "Teaser 01 — Pymmys",
+      "objective": "presentar Pymmys con intriga y estética premium",
+      "recommended_duration": "10-12 segundos",
+      "scenes": [
+        {
+          "scene": 1,
+          "time": "0-3s",
+          "visual": "pantalla oscura, luz cálida apareciendo lentamente",
+          "text": "algo está cambiando"
+        },
+        {
+          "scene": 2,
+          "time": "3-6s",
+          "visual": "detalle de mesa minimalista, sombras suaves, objeto insinuado",
+          "text": "no sabes qué es"
+        },
+        {
+          "scene": 3,
+          "time": "6-9s",
+          "visual": "movimiento sutil, atmósfera íntima, enfoque corto",
+          "text": "pero lo sientes"
+        },
+        {
+          "scene": 4,
+          "time": "9-12s",
+          "visual": "pantalla limpia con logo o palabra PYMMYS",
+          "text": "PYMMYS · coming soon"
+        }
+      ],
+      "visual_prompts": [
+        "cinematic warm lighting, premium minimalism, mysterious atmosphere, shallow depth of field",
+        "clean luxury teaser, soft shadows, emotional brand reveal, short form video aesthetic"
+      ],
+      "music_direction": "ambient minimal, soft tension, cinematic pulse",
+      "final_note": "menos explicación, más sensación"
+    },
+    "case_type": "video_teaser"
+  }
+]
