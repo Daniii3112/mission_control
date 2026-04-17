@@ -31,32 +31,35 @@ The system runs a structured workflow where each agent has a specific role:
 
 ---
 
-## Video Generation (New)
+## 🎬 Video Generation
 
 The system can generate a complete `video_plan` for short teaser content:
 
-- creative concept  
-- scene breakdown  
-- on-screen text  
-- visual prompts  
-- music direction  
+- creative concept
+- scene breakdown
+- on-screen text
+- visual prompts
+- music direction
 
-Example:
+### ▶️ Example
 
-```bash
+Run the CLI and select the video option:
+
 python main.py
 # select option 3 → create video teaser
 
-# Instalation
+## 🛠️ Installation
 
 git clone https://github.com/Daniii3112/mission_control.git
 cd mission_control
 pip install -r requirements.txt
 
-# Usage
+## ▶️ Usage
 
-##Run in local mode (no API required):
+### Run in local mode (no API required)
+
 python main.py --stub
 
-##Run with API (OpenAI or Anthropic):
+### Run with API (OpenAI or Anthropic)
+
 python main.py
